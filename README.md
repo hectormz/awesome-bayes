@@ -115,17 +115,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [New tutorial on optimal decisions using Utility Theory](https://lindeloev.net/new-tutorial-on-optimal-decisions-using-utility-theory/) (May 28, 2019)
 
-- [Probably Overthinking It](https://www.allendowney.com/blog/)
-
-    - Author: Allen Downey
-
-    - Recent Post: [Founded Upon an Error](https://www.allendowney.com/blog/2021/05/07/founded-upon-an-error/) (May 7, 2021)
-
 - [Oriol Unraveled](https://oriolabril.github.io/oriol_unraveled/)
 
     - Author: Oriol Abril Pla
 
     - Recent Post: [PyMC3 With Labeled Coords and Dims](https://oriolabril.github.io/oriol_unraveled/python/arviz/pymc3/xarray/2020/09/22/pymc3-arviz.html) (September 22, 2020)
+
+- [Probably Overthinking It](https://www.allendowney.com/blog/)
+
+    - Author: Allen Downey
+
+    - Recent Post: [Founded Upon an Error](https://www.allendowney.com/blog/2021/05/07/founded-upon-an-error/) (May 7, 2021)
 
 - [Publishable Stuff](http://www.sumsar.net/)
 
@@ -157,6 +157,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [He wants to test whether his distribution has infinite variance. I have other ideas . . .](https://statmodeling.stat.columbia.edu/2021/06/05/he-wants-to-test-whether-his-distribution-has-infinite-variance-i-have-other-ideas/) (June 5, 2021)
 
+- [Statistical Thinking](https://www.fharrell.com/#posts)
+
+    - Author: Frank Harrell
+
+    - Recent Post: [Bayesian Methods to Address Clinical Development Challenges for COVID-19 Drugs and Biologics](https://www.fharrell.com/post/bayes-covid/) (September 15, 2020)
+
 - [Steven V. Miller](http://svmiller.com/)
 
     - Author: Steven V. Miller
@@ -180,12 +186,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - Author: Thomas Wiecki
 
     - Recent Post: [Using Bayesian Decision Making to Optimize Supply Chains](https://twiecki.io/blog/2019/01/14/supply_chain/) (January 14, 2019)
-
-- [Statistical Thinking](https://www.fharrell.com/#posts)
-
-    - Author: Frank Harrell
-
-    - Recent Post: [Bayesian Methods to Address Clinical Development Challenges for COVID-19 Drugs and Biologics](https://www.fharrell.com/post/bayes-covid/) (September 15, 2020)
 
 
 - [Xi'an's 'Og](https://xianblog.wordpress.com/)
