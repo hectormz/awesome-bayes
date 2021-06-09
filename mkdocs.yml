@@ -1,0 +1,31 @@
+site_name: Awesome Bayes
+site_url: https://awesome-bayes.com
+site_description: A curated list of awesome Bayesian statistics resources
+site_author: Hector Muñoz
+repo_name: hectormz/awesome-bayes
+repo_url: https://github.com/hectormz/awesome-bayes
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  icon:
+    repo: fontawesome/brands/github
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hectormz
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/hectoremunoz
