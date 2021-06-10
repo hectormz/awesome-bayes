@@ -208,6 +208,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Episode: [Michael Lee](https://sites.tufts.edu/hilab/podcast/michael-lee/) (January 4, 2021)
 
+- [Data Skeptic](https://dataskeptic.com/)
+
+    - Host: Kyle Polich
+
+    - Recent Episode: [Uncertainty Representations (with Jessica Hullman)](https://dataskeptic.com/blog/episodes/2020/uncertainty-representations) (April 4, 2020)
+
 - [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
 
     - Host: Alexandre Andorra
