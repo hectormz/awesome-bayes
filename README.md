@@ -90,6 +90,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Diffusion/Wiener Model Analysis with brms – Part III: Hypothesis Tests of Parameter Estimates](http://singmann.org/wiener-model-analysis-with-brms-part-iii/) (September 6, 2018)
 
+- [Higher Order Functions](https://www.tjmahr.com/)
+
+    - Author: Tristan Mahr
+
+    - Recent Post: [Bayes’ theorem in three panels](https://www.tjmahr.com/bayes-theorem-in-three-panels/) (February 2, 2021)
+
 - [John D. Cook](https://www.johndcook.com/blog/tag/bayesian/)
 
     - Author: John D. Cook
