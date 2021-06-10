@@ -84,6 +84,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Probability Simplex](https://ericmjl.github.io/blog/2021/5/5/probability-simplex/) (May 5, 2021)
 
+- [The Etz-Files](https://alexanderetz.com/)
+
+    - Author: Alex Etz
+
+    - Recent Post: [A quick comment on recent BF (vs p-value) error control blog posts](https://alexanderetz.com/2016/07/20/a-quick-comment-on-recent-bf-vs-p-value-error-control-blog-posts/) (July 20, 2016)
+
 - [Henrik Singmann - Computational Psychology](http://singmann.org/)
 
     - Author: Henrik Singmann
@@ -175,12 +181,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [How Should You Think About Your Priors for a Bayesian Analysis?](http://svmiller.com/blog/2021/02/thinking-about-your-priors-bayesian-analysis/) (February 8, 2021)
 
-- [The Etz-Files](https://alexanderetz.com/)
-
-    - Author: Alex Etz
-
-    - Recent Post: [A quick comment on recent BF (vs p-value) error control blog posts](https://alexanderetz.com/2016/07/20/a-quick-comment-on-recent-bf-vs-p-value-error-control-blog-posts/) (July 20, 2016)
-
 - [Variance Explained](http://varianceexplained.org/)
 
     - Author: David Robinson
@@ -202,17 +202,17 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Podcasts
 
-- [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
-
-    - Host: Alexandre Andorra
-
-    - Recent Episode: [Bayesian Stats for the Speech & Language Sciences, with Allison Hilger and Timo Roettger](https://www.learnbayesstats.com/episode/40-bayesian-stats-speech-language-sciences-allison-hilger-timo-roettger) (May 28, 2021)
-
 - [The Bayes Factor](https://sites.tufts.edu/hilab/series/the-bayes-factor/)
 
     - Host: Human Interaction Laboratory @ Tufts University
 
     - Recent Episode: [Michael Lee](https://sites.tufts.edu/hilab/podcast/michael-lee/) (January 4, 2021)
+
+- [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
+
+    - Host: Alexandre Andorra
+
+    - Recent Episode: [Bayesian Stats for the Speech & Language Sciences, with Allison Hilger and Timo Roettger](https://www.learnbayesstats.com/episode/40-bayesian-stats-speech-language-sciences-allison-hilger-timo-roettger) (May 28, 2021)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
