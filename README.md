@@ -217,13 +217,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [Bayesian Stats for the Speech & Language Sciences, with Allison Hilger and Timo Roettger](https://www.learnbayesstats.com/episode/40-bayesian-stats-speech-language-sciences-allison-hilger-timo-roettger) (May 28, 2021)
+    - Recent Episode: [Bayesian Modeling in Civil Engineering, with Michael Faber](https://www.learnbayesstats.com/episode/59-bayesian-modeling-civil-engineering-michael-faber) (April 14, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
     - Host: Max Sklar
 
-    - Recent Episode: [Bayesian Inference Regulations and Network Algorithms](https://www.localmaxradio.com/episode/170-bayesian-inference-regulations-and-network-algorithms) (May 10, 2021)
+    - Recent Episode: [Max Returns with Priors](https://www.localmaxradio.com/episode/207-max-returns-with-priors) (January 10, 2022)
 
 ## Contributing
 
