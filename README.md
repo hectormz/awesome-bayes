@@ -126,6 +126,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Expectation Maximization (EM)](https://karinknudson.com/expectationmaximization.html) (July 31, 2020)
 
+- [Matthew Kay](https://www.mjskay.com/)
+
+    - Author: Matthew Kay
+
+    - Recent Post: [Announcing tidybayes + ggdist 3.0](https://blog.mjskay.com/2021/07/15/tidybayes-ggdist-3-0/) (July 15, 2021)
+
 - [Michael Clark](https://m-clark.github.io/)
 
     - Author: Michael Clark
