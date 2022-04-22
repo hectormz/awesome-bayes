@@ -114,6 +114,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Prediction for the 100m final at the Tokyo Olympics](https://magesblog.com/post/2021-07-29-prediction-for-the-100m-tokyo-olympics/) (July 29, 2021)
 
+- [Karin Knudson](https://karinknudson.com/index.html)
+
+    - Author: Karin Knudson
+
+    - Recent Post: [Expectation Maximization (EM)](https://karinknudson.com/expectationmaximization.html) (July 31, 2020)
+
 - [Michael Clark](https://m-clark.github.io/)
 
     - Author: Michael Clark
