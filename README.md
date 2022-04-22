@@ -84,6 +84,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Probability Simplex](https://ericmjl.github.io/blog/2021/5/5/probability-simplex/) (May 5, 2021)
 
+- [Ethan Rosenthal](https://www.ethanrosenthal.com/)
+
+    - Author: Ethan Rosenthal
+
+    - Recent Post: [Bayesian Rock Climbing Rankings](https://www.ethanrosenthal.com/2022/04/15/bayesian-rock-climbing/) (April 4, 2022)
+
 - [The Etz-Files](https://alexanderetz.com/)
 
     - Author: Alex Etz
