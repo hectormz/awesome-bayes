@@ -18,23 +18,23 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Don't forget your inits](https://solomonkurz.netlify.app/post/2021-06-05-don-t-forget-your-inits/) (June 5, 2021)
+    - Recent Post: [Notes on the Bayesian cumulative probit](https://solomonkurz.netlify.app/post/2021-12-29-notes-on-the-bayesian-cumulative-probit/) (December 30, 2021)
 
 - [Austin Rochford](https://austinrochford.com/)
 
     - Author: Austin Rochford
 
-    - Recent Post: [The Hierarchical Regularized Horseshoe Prior in PyMC3](https://austinrochford.com/posts/2021-05-29-horseshoe-pymc3.html) (May 29, 2021)
+    - Recent Post: [A Modern Introduction to Probabilistic Programming with PyMC](https://austinrochford.com/posts/intro-prob-prog-pymc.html) (January 29, 2022)
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
-    - Recent Post: [SpaceX Spaceship SN10 Landing](https://www.bayesianspectacles.org/spacex-spaceship-sn10-landing/) (February 19, 2021)
+    - Recent Post: [From p-values to Bayes Factors with 3p√n](https://www.bayesianspectacles.org/from-p-values-to-bayes-factors-with-3p%e2%88%9an/) (February 22, 2022)
 
 - [BetanAlpha](https://betanalpha.github.io/writing/)
 
     - Author: Michael Betancourt
 
-    - Recent Post: [Rumble in the Ensemble](https://betanalpha.github.io/assets/case_studies/sampling.html) (April 2021)
+    - Recent Post: [Some Ruminations on Containment Prior Modeling](https://betanalpha.github.io/assets/case_studies/some_containment_prior_models.html) (February 2022)
 
 - [Chris Stucchio](https://www.chrisstucchio.com/blog/index.html)
 
@@ -52,7 +52,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Will Kurt
 
-    - Recent Post: [Technically Wrong: When Bayesian and Frequentist methods differ](https://www.countbayesie.com/blog/2021/4/27/technically-wrong-when-bayesian-and-frequentist-methods-differ) (April 28, 2021)
+    - Recent Post: [How to Read the News like a Bayesian](https://www.countbayesie.com/blog/2022/2/19/how-to-read-the-news-like-a-bayesian) (February 19, 2022)
 
 - [Daniel Hadley](https://www.danielphadley.com/)
 
@@ -64,7 +64,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: John K. Kruschke
 
-    - Recent Post: [Benchmark Bayes factors for uncertain prior model probability](https://doingbayesiandataanalysis.blogspot.com/2021/04/benchmark-bayes-factors-for-uncertain.html) (April 16, 2021)
+    - Recent Post: [A novel trend model made possible by Bayesian software](https://doingbayesiandataanalysis.blogspot.com/2022/02/a-novel-trend-model-made-possible-by.html) (February 15, 2022)
 
 - [Elements of Evolutionary Anthropology](http://elevanth.org/blog/)
 
@@ -100,20 +100,19 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Tristan Mahr
 
-    - Recent Post: [Bayes’ theorem in three panels](https://www.tjmahr.com/bayes-theorem-in-three-panels/) (February 2, 2021)
+    - Recent Post: [Random effects and penalized splines are the same thing](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/) (February 26, 2021)
 
 - [John D. Cook](https://www.johndcook.com/blog/tag/bayesian/)
 
     - Author: John D. Cook
 
-    - Recent Post: [Universal confidence interval](https://www.johndcook.com/blog/2021/05/07/
-    universal-confidence-interval/) (May 7, 2021)
+    - Recent Post: [A Bayesian approach to pricing](https://www.johndcook.com/blog/2022/02/12/bayesian-pricing/) (February 12, 2022)
 
 - [mages' blog](https://magesblog.com/)
 
     - Author: Markus Gesmann
 
-    - Recent Post: [Fitting multivariate ODE models with brms](https://magesblog.com/post/2021-02-08-fitting-multivariate-ode-models-with-brms/) (February 5, 2021)
+    - Recent Post: [Prediction for the 100m final at the Tokyo Olympics](https://magesblog.com/post/2021-07-29-prediction-for-the-100m-tokyo-olympics/) (July 29, 2021)
 
 - [Michael Clark](https://m-clark.github.io/)
 
@@ -137,7 +136,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Allen Downey
 
-    - Recent Post: [Founded Upon an Error](https://www.allendowney.com/blog/2021/05/07/founded-upon-an-error/) (May 7, 2021)
+    - Recent Post: [Emitter Detector Redux](https://www.allendowney.com/blog/2021/09/05/emitter-detector-redux/) (September 5, 2021)
 
 - [Publishable Stuff](http://www.sumsar.net/)
 
@@ -161,13 +160,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Stan Case Studies](https://mc-stan.org/users/documentation/case-studies.html)
 
-    - Recent Post: [Bayesian model of planetary motion: exploring ideas for a modeling workflow when dealing with ordinary differential equations and multimodality](https://mc-stan.org/users/documentation/case-studies/planetary_motion/planetary_motion.html) (November 10, 2020)
+    - Recent Post: [Bayesian Latent Class Models and Handling of Label Switching](https://mc-stan.org/users/documentation/case-studies/Latent_class_case_study.html) (June 26, 2021)
 
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 
     - Authors: Andrew Gelman and others
 
-    - Recent Post: [He wants to test whether his distribution has infinite variance. I have other ideas . . .](https://statmodeling.stat.columbia.edu/2021/06/05/he-wants-to-test-whether-his-distribution-has-infinite-variance-i-have-other-ideas/) (June 5, 2021)
+    - Recent Post: [Jamaican me crazy: the return of the overestimated effect of early childhood intervention](https://statmodeling.stat.columbia.edu/2022/04/21/jamaican-me-crazy-the-return-of-the-overestimated-effect-of-early-childhood-intervention/) (April 21, 2022)
 
 - [Statistical Thinking](https://www.fharrell.com/#posts)
 
@@ -198,7 +197,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Christian P. Robert
 
-    - Recent Post: [scale matters [maths as well]](https://xianblog.wordpress.com/2021/06/02/scale-matters-maths-as-well/) (June 2, 2021)
+    - Recent Post: [conditioning on insufficient statistics in Bayesian regression](https://xianblog.wordpress.com/2021/10/23/conditioning-on-insufficient-statistics-in-bayesian-regression/) (October 23, 2021)
 
 ## Podcasts
 
