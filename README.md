@@ -148,7 +148,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Oriol Abril Pla
 
-    - Recent Post: [PyMC3 With Labeled Coords and Dims](https://oriolabril.github.io/oriol_unraveled/python/arviz/pymc3/xarray/2020/09/22/pymc3-arviz.html) (September 22, 2020)
+    - Recent Post: [CmdStanPy and ArviZ Integration](https://oriolabrilpla.cat/python/arviz/stan/xarray/xarray-einstats/2022/04/25/einstats-hmm-cmdstanpy.html) (April 25, 2022)
 
 - [Probably Overthinking It](https://www.allendowney.com/blog/)
 
@@ -184,7 +184,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Authors: Andrew Gelman and others
 
-    - Recent Post: [Jamaican me crazy: the return of the overestimated effect of early childhood intervention](https://statmodeling.stat.columbia.edu/2022/04/21/jamaican-me-crazy-the-return-of-the-overestimated-effect-of-early-childhood-intervention/) (April 21, 2022)
+    - Recent Post: [Hey, check this out, it’s really cool: A Bayesian framework for interpreting findings from impact evaluations](https://statmodeling.stat.columbia.edu/2022/04/27/hey-check-this-out-its-really-cool-a-bayesian-framework-for-interpreting-findings-from-impact-evaluations/) (April 27, 2022)
 
 - [Statistical Thinking](https://www.fharrell.com/#posts)
 
@@ -214,7 +214,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Christian P. Robert
 
-    - Recent Post: [conditioning on insufficient statistics in Bayesian regression](https://xianblog.wordpress.com/2021/10/23/conditioning-on-insufficient-statistics-in-bayesian-regression/) (October 23, 2021)
+    - Recent Post: [efficiency of normalising over discrete parameters](https://xianblog.wordpress.com/2022/05/01/efficiency-of-normalising-over-discrete-parameters/) (May 1, 2022)
 
 ## Podcasts
 
@@ -234,7 +234,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [Bayesian Modeling in Civil Engineering, with Michael Faber](https://www.learnbayesstats.com/episode/59-bayesian-modeling-civil-engineering-michael-faber) (April 14, 2022)
+    - Recent Episode: [#60 Modeling Dialogues & Languages, with J.P. de Ruiter](https://www.learnbayesstats.com/episode/60-modeling-dialogues-languages-jp-ruiter) (April 30, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
