@@ -20,6 +20,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Notes on the Bayesian cumulative probit](https://solomonkurz.netlify.app/post/2021-12-29-notes-on-the-bayesian-cumulative-probit/) (December 30, 2021)
 
+- [Andrew Heiss](https://www.andrewheiss.com/blog/)
+
+    - Author: Andrew Heiss
+
+    - Recent Post: [How to create a(n almost) fully Bayesian outcome model with inverse probability weights](https://www.andrewheiss.com/blog/2021/12/20/fully-bayesian-ate-iptw/) (December 20, 2021)
+
 - [Austin Rochford](https://austinrochford.com/)
 
     - Author: Austin Rochford
@@ -53,6 +59,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - Author: Will Kurt
 
     - Recent Post: [How to Read the News like a Bayesian](https://www.countbayesie.com/blog/2022/2/19/how-to-read-the-news-like-a-bayesian) (February 19, 2022)
+
+- [Desi R. Ivanova](https://desirivanova.com/post/)
+
+    - Author: Desi R. Ivanova
+
+    - Recent Post: [Introduction to Bayesian Optimal Experimental Design](https://desirivanova.com/post/boed-intro/) (September 25, 2018)
 
 - [Daniel Hadley](https://www.danielphadley.com/#posts)
 
@@ -114,6 +126,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [A Bayesian approach to pricing](https://www.johndcook.com/blog/2022/02/12/bayesian-pricing/) (February 12, 2022)
 
+- [Joshua Cook](https://joshuacook.netlify.app/#posts)
+
+    - Author: Joshua Cook
+
+    - Recent Post: [Experimenting with multi-level and hierarchical splines in PyMC](https://joshuacook.netlify.app/post/pymc-multilevel-spline/) (February 28, 2022)
+
 - [mages' blog](https://magesblog.com/#posts)
 
     - Author: Markus Gesmann
@@ -150,6 +168,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [CmdStanPy and ArviZ Integration](https://oriolabrilpla.cat/python/arviz/stan/xarray/xarray-einstats/2022/04/25/einstats-hmm-cmdstanpy.html) (April 25, 2022)
 
+- [Ph.Demetri](https://dpananos.github.io/year-archive/)
+
+    - Author: Demetri Pananos
+
+    - Recent Post: [What Do Monty Hall and A Steak Have In Common? I Marinate Both](https://dpananos.github.io/posts/2020/10/blog-post-24/) (October 1, 2020)
+
 - [Probably Overthinking It](https://www.allendowney.com/blog/)
 
     - Author: Allen Downey
@@ -162,6 +186,16 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Yet another visualization of the Bayesian Beta-Binomial model](http://www.sumsar.net/blog/2018/12/visualizing-the-beta-binomial/) (December 13, 2018)
 
+- [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
+
+    - Recent Post: [The Quickest Migration Guide Ever from PyMC3 to PyMC v4.0](https://www.pymc-labs.io/blog-posts/the-quickest-migration-guide-ever-from-pymc3-to-pymc-v40/) (January 1, 2022)
+
+- [Pythonic Perambulations](https://jakevdp.github.io/)
+
+    - Author: Jake VanderPlas
+
+    - Recent Post: [Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/) (August 7, 2015)
+
 - [PyMC3 Examples](https://docs.pymc.io/nb_examples/index.html)
 
 - [Robert Grant - stats](http://www.robertgrantstats.co.uk/publications.html#articles)
@@ -169,6 +203,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - Author: Robert Grant
 
     - Recent Post: [How (not) to introduce newcomers to Bayesian analysis](http://www.robertgrantstats.co.uk/papers/how-not-to-introduce.pdf) (2018)
+
+- [Dr. Robert Kübler](https://dr-robert-kuebler.medium.com/)
+
+    - Author: Dr. Robert Kübler
+
+    - Recent Post: [Bayesian Marketing Mix Modeling in Python via PyMC3](https://towardsdatascience.com/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a) (December 30, 2021)
 
 - [Sometimes | R](https://mvuorre.github.io/)
 
@@ -197,6 +237,18 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - Author: Steven V. Miller
 
     - Recent Post: [How Should You Think About Your Priors for a Bayesian Analysis?](http://svmiller.com/blog/2021/02/thinking-about-your-priors-bayesian-analysis/) (February 8, 2021)
+
+- [Susan Li](https://actsusanli.medium.com/)
+
+    - Author: Susan Li
+
+    - Recent Post: [Forecasting the 2020 US Election Using Multilevel Regression with Post-stratification](https://towardsdatascience.com/forecasting-the-2020-us-election-using-multilevel-regression-with-post-stratification-bbf2f93585fb) (July 17, 2021)
+
+- [Un garçon pas comme les autres (Bayes)](https://dansblog.netlify.app/)
+
+    - Author: Dan Simpson
+
+    - Recent Post: [The linear algebra of linear mixed effects models and their generalisations](https://dansblog.netlify.app/posts/2022-03-22-a-linear-mixed-effects-model/) (March 21, 2022)
 
 - [Variance Explained](http://varianceexplained.org/)
 
