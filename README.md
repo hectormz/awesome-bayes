@@ -14,7 +14,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Blogs
 
-- [A. Solomon Kurz](https://solomonkurz.netlify.app/)
+- [A. Solomon Kurz](https://solomonkurz.netlify.app/post/)
 
     - Author: A. Solomon Kurz
 
@@ -54,7 +54,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [How to Read the News like a Bayesian](https://www.countbayesie.com/blog/2022/2/19/how-to-read-the-news-like-a-bayesian) (February 19, 2022)
 
-- [Daniel Hadley](https://www.danielphadley.com/)
+- [Daniel Hadley](https://www.danielphadley.com/#posts)
 
     - Author: Daniel Hadley
 
@@ -72,11 +72,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Algebra and the Missing Oxen](https://elevanth.org/blog/2018/01/29/algebra-and-missingness/) (January 29, 2018)
 
-- [Eigenfoo](https://eigenfoo.xyz/)
+- [George Ho](https://www.georgeho.org/blog/)
 
     - Author: George Ho
 
-    - Recent Post: [littlemcmc — A Standalone HMC and NUTS Sampler in Python](https://eigenfoo.xyz/littlemcmc/) (October 6, 2020)
+    - Recent Post: [littlemcmc — A Standalone HMC and NUTS Sampler in Python](https://www.georgeho.org/littlemcmc/) (October 6, 2020)
 
 - [Eric J. Ma's Personal Site](https://ericmjl.github.io/blog/)
 
@@ -84,7 +84,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Probability Simplex](https://ericmjl.github.io/blog/2021/5/5/probability-simplex/) (May 5, 2021)
 
-- [Ethan Rosenthal](https://www.ethanrosenthal.com/)
+- [Ethan Rosenthal](https://www.ethanrosenthal.com/#blog)
 
     - Author: Ethan Rosenthal
 
@@ -96,7 +96,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [A quick comment on recent BF (vs p-value) error control blog posts](https://alexanderetz.com/2016/07/20/a-quick-comment-on-recent-bf-vs-p-value-error-control-blog-posts/) (July 20, 2016)
 
-- [Henrik Singmann - Computational Psychology](http://singmann.org/)
+- [Henrik Singmann - Computational Psychology](http://singmann.org/blog/)
 
     - Author: Henrik Singmann
 
@@ -114,19 +114,19 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [A Bayesian approach to pricing](https://www.johndcook.com/blog/2022/02/12/bayesian-pricing/) (February 12, 2022)
 
-- [mages' blog](https://magesblog.com/)
+- [mages' blog](https://magesblog.com/#posts)
 
     - Author: Markus Gesmann
 
     - Recent Post: [Prediction for the 100m final at the Tokyo Olympics](https://magesblog.com/post/2021-07-29-prediction-for-the-100m-tokyo-olympics/) (July 29, 2021)
 
-- [Karin Knudson](https://karinknudson.com/index.html)
+- [Karin Knudson](https://karinknudson.com/blog.html)
 
     - Author: Karin Knudson
 
     - Recent Post: [Expectation Maximization (EM)](https://karinknudson.com/expectationmaximization.html) (July 31, 2020)
 
-- [Matthew Kay](https://www.mjskay.com/)
+- [Matthew Kay](https://blog.mjskay.com/)
 
     - Author: Matthew Kay
 
@@ -144,7 +144,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [New tutorial on optimal decisions using Utility Theory](https://lindeloev.net/new-tutorial-on-optimal-decisions-using-utility-theory/) (May 28, 2019)
 
-- [Oriol Unraveled](https://oriolabril.github.io/oriol_unraveled/)
+- [Oriol Unraveled](https://oriolabrilpla.cat/blog/)
 
     - Author: Oriol Abril Pla
 
@@ -192,7 +192,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Bayesian Methods to Address Clinical Development Challenges for COVID-19 Drugs and Biologics](https://www.fharrell.com/post/bayes-covid/) (September 15, 2020)
 
-- [Steven V. Miller](http://svmiller.com/)
+- [Steven V. Miller](http://svmiller.com/blog/)
 
     - Author: Steven V. Miller
 
@@ -209,7 +209,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - Author: Thomas Wiecki
 
     - Recent Post: [Using Bayesian Decision Making to Optimize Supply Chains](https://twiecki.io/blog/2019/01/14/supply_chain/) (January 14, 2019)
-
 
 - [Xi'an's 'Og](https://xianblog.wordpress.com/)
 
