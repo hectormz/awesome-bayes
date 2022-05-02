@@ -186,6 +186,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Yet another visualization of the Bayesian Beta-Binomial model](http://www.sumsar.net/blog/2018/12/visualizing-the-beta-binomial/) (December 13, 2018)
 
+- [PyMC Blog](https://www.pymc.io/blog.html)
+
+- [PyMC Examples](https://docs.pymc.io/projects/examples/en/latest/)
+
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
     - Recent Post: [The Quickest Migration Guide Ever from PyMC3 to PyMC v4.0](https://www.pymc-labs.io/blog-posts/the-quickest-migration-guide-ever-from-pymc3-to-pymc-v40/) (January 1, 2022)
@@ -195,10 +199,6 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
     - Author: Jake VanderPlas
 
     - Recent Post: [Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/) (August 7, 2015)
-
-- [PyMC blog](https://www.pymc.io/blog.html)
-
-- [PyMC Examples](https://docs.pymc.io/projects/examples/en/latest/)
 
 - [Robert Grant - stats](http://www.robertgrantstats.co.uk/publications.html#articles)
 
