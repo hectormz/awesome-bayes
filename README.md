@@ -196,7 +196,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Frequentism and Bayesianism V: Model Selection](https://jakevdp.github.io/blog/2015/08/07/frequentism-and-bayesianism-5-model-selection/) (August 7, 2015)
 
-- [PyMC3 Examples](https://docs.pymc.io/nb_examples/index.html)
+- [PyMC blog](https://www.pymc.io/blog.html)
+
+- [PyMC Examples](https://docs.pymc.io/projects/examples/en/latest/)
 
 - [Robert Grant - stats](http://www.robertgrantstats.co.uk/publications.html#articles)
 
