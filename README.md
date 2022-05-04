@@ -268,7 +268,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Christian P. Robert
 
-    - Recent Post: [efficiency of normalising over discrete parameters](https://xianblog.wordpress.com/2022/05/01/efficiency-of-normalising-over-discrete-parameters/) (May 1, 2022)
+    - Recent Post: [truncated mixtures](https://xianblog.wordpress.com/2022/05/04/truncated-mixtures/) (May 4, 2022)
 
 ## Podcasts
 
