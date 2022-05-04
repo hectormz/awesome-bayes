@@ -192,7 +192,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [The Quickest Migration Guide Ever from PyMC3 to PyMC v4.0](https://www.pymc-labs.io/blog-posts/the-quickest-migration-guide-ever-from-pymc3-to-pymc-v40/) (January 1, 2022)
+    - Recent Post: [Bayesian Vector Autoregression in PyMC](https://www.pymc-labs.io/blog-posts/bayesian-vector-autoregression/) (April 21, 2022)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
