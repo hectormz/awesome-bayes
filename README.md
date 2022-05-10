@@ -24,7 +24,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Andrew Heiss
 
-    - Recent Post: [How to create a(n almost) fully Bayesian outcome model with inverse probability weights](https://www.andrewheiss.com/blog/2021/12/20/fully-bayesian-ate-iptw/) (December 20, 2021)
+    - Recent Post: [A guide to modeling outcomes that have lots of zeros with Bayesian hurdle lognormal and hurdle Gaussian regression models](https://www.andrewheiss.com/blog/2022/05/09/hurdle-lognormal-gaussian-brms/) (May 9, 2022)
 
 - [Austin Rochford](https://austinrochford.com/)
 
