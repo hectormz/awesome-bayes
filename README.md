@@ -172,7 +172,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Demetri Pananos
 
-    - Recent Post: [What Do Monty Hall and A Steak Have In Common? I Marinate Both](https://dpananos.github.io/posts/2020/10/blog-post-24/) (October 1, 2020)
+    - Recent Post: [Flippin’ Fun!](https://dpananos.github.io/posts/2022/05/blog-post-38/) (May 7, 2022)
 
 - [Probably Overthinking It](https://www.allendowney.com/blog/)
 
