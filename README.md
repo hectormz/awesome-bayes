@@ -274,7 +274,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Christian P. Robert
 
-    - Recent Post: [truncated mixtures](https://xianblog.wordpress.com/2022/05/04/truncated-mixtures/) (May 4, 2022)
+    - Recent Post: [nonparametric ABC [seminar]](https://xianblog.wordpress.com/2022/06/03/nonparametric-abc-seminar/) (June 3, 2022)
 
 ## Podcasts
 
