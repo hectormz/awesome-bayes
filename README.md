@@ -20,6 +20,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Notes on the Bayesian cumulative probit](https://solomonkurz.netlify.app/post/2021-12-29-notes-on-the-bayesian-cumulative-probit/) (December 30, 2021)
 
+- [Andreas Handel](https://www.andreashandel.com/posts)
+
+    - Author: Andreas Handel
+
+    - Recent Post: [Bayesian analysis of longitudinal multilevel data using brms and rethinking - part 4](https://www.andreashandel.com/posts/longitudinal-multilevel-bayesian-analysis-4/) (May 13, 2022)
+
 - [Andrew Heiss](https://www.andrewheiss.com/blog/)
 
     - Author: Andrew Heiss
