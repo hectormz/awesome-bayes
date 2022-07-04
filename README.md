@@ -312,7 +312,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Max Sklar
 
-    - Recent Episode: [Max Returns with Priors](https://www.localmaxradio.com/episode/207-max-returns-with-priors) (January 10, 2022)
+    - Recent Episode: [Episode 229 - Fun with Bayesian Statistics with Will Kurt](https://www.localmaxradio.com/episode/229-fun-with-bayesian-statistics-with-will-kurt) (June 6, 2022)
 
 ## Contributing
 
