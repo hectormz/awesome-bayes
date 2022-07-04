@@ -178,7 +178,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Oriol Abril Pla
 
-    - Recent Post: [CmdStanPy and ArviZ Integration](https://oriolabrilpla.cat/python/arviz/stan/xarray/xarray-einstats/2022/04/25/einstats-hmm-cmdstanpy.html) (April 25, 2022)
+    - Recent Post: [Some Dimensionality Devils](https://oriolabrilpla.cat/python/arviz/pymc/xarray/xarray-einstats/2022/05/25/too-eager-reduction.html) (May 25, 2022)
 
 - [Ph.Demetri](https://dpananos.github.io/year-archive/)
 
