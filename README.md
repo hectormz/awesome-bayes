@@ -46,7 +46,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Michael Betancourt
 
-    - Recent Post: [Some Ruminations on Containment Prior Modeling](https://betanalpha.github.io/assets/case_studies/some_containment_prior_models.html) (February 2022)
+    - Recent Post: [Bridge Over Troubled Processes](https://betanalpha.github.io/assets/case_studies/brownian_bridge.html) (May 2022)
 
 - [Chris Stucchio](https://www.chrisstucchio.com/blog/index.html)
 
