@@ -300,7 +300,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#61 Why we still use non-Bayesian methods, with EJ Wagenmakers](https://learnbayesstats.com/episode/61-why-we-still-use-non-bayesian-methods-ej-wagenmakers/) (May 19, 2022)
+    - Recent Episode: [#62 Bayesian Generative Modeling for Healthcare, with Maria Skoularidou](https://learnbayesstats.com/episode/62-bayesian-generative-modeling-healthcare-maria-skoularidou/) (June 8, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
