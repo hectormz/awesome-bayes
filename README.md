@@ -258,6 +258,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Forecasting the 2020 US Election Using Multilevel Regression with Post-stratification](https://towardsdatascience.com/forecasting-the-2020-us-election-using-multilevel-regression-with-post-stratification-bbf2f93585fb) (July 17, 2021)
 
+- [Tomás Capretto](https://tomicapretto.github.io)
+
+    - Author: Tomás Capretto
+
+    - Recent Post: [Hierarchical modeling with the LKJ prior in PyMC](https://tomicapretto.github.io/posts/2022-06-12_lkj-prior/) (July 12, 2022)
+
 - [Un garçon pas comme les autres (Bayes)](https://dansblog.netlify.app/)
 
     - Author: Dan Simpson
