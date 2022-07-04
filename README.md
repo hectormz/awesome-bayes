@@ -294,7 +294,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#60 Modeling Dialogues & Languages, with J.P. de Ruiter](https://www.learnbayesstats.com/episode/60-modeling-dialogues-languages-jp-ruiter) (April 30, 2022)
+    - Recent Episode: [#61 Why we still use non-Bayesian methods, with EJ Wagenmakers](https://learnbayesstats.com/episode/61-why-we-still-use-non-bayesian-methods-ej-wagenmakers/) (May 19, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
