@@ -238,7 +238,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Authors: Andrew Gelman and others
 
-    - Recent Post: [Hey, check this out, it’s really cool: A Bayesian framework for interpreting findings from impact evaluations](https://statmodeling.stat.columbia.edu/2022/04/27/hey-check-this-out-its-really-cool-a-bayesian-framework-for-interpreting-findings-from-impact-evaluations/) (April 27, 2022)
+    - Recent Post: [Bayes factors measure prior predictive performance](https://statmodeling.stat.columbia.edu/2022/06/25/bayes-factors-measure-prior-predictive-performance/) (June 25, 2022)
 
 - [Statistical Thinking](https://www.fharrell.com/#posts)
 
