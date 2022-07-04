@@ -178,7 +178,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Oriol Abril Pla
 
-    - Recent Post: [Some Dimensionality Devils](https://oriolabrilpla.cat/python/arviz/pymc/xarray/xarray-einstats/2022/05/25/too-eager-reduction.html) (May 25, 2022)
+    - Recent Post: [PyMC 4.0 with Labeled Coords and Dims](https://oriolabrilpla.cat/python/arviz/pymc/xarray/2022/06/07/pymc-arviz.html) (June 7, 2022)
 
 - [Ph.Demetri](https://dpananos.github.io/year-archive/)
 
