@@ -60,6 +60,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Highlights of PyMC3 v3.8](https://colindcarroll.com/2019/11/29/highlights-of-pymc3-v3.8/) (November 29, 2019)
 
+- [Computational Behavior Lab](https://cluhmann.github.io/)
+
+    - Author: Christian Luhmann
+
+    - Recent Post: [Coordinates in PyMC & InferenceData Objects](https://cluhmann.github.io/inferencedata/) (June 4, 2022)
+
 - [Count Bayesie](https://www.countbayesie.com/)
 
     - Author: Will Kurt
