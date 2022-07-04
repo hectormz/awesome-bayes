@@ -180,11 +180,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [PyMC 4.0 with Labeled Coords and Dims](https://oriolabrilpla.cat/python/arviz/pymc/xarray/2022/06/07/pymc-arviz.html) (June 7, 2022)
 
-- [Ph.Demetri](https://dpananos.github.io/year-archive/)
+- [Ph.Demetri](https://dpananos.github.io/)
 
     - Author: Demetri Pananos
 
-    - Recent Post: [Flippin’ Fun!](https://dpananos.github.io/posts/2022/05/blog-post-38/) (May 7, 2022)
+    - Recent Post: [Flippin’ Fun!](https://dpananos.github.io/posts/2022-05-07-flippin/) (May 7, 2022)
 
 - [Probably Overthinking It](https://www.allendowney.com/blog/)
 
