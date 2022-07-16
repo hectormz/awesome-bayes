@@ -6,6 +6,7 @@ repo_name: hectormz/awesome-bayes
 repo_url: https://github.com/hectormz/awesome-bayes
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: teal
