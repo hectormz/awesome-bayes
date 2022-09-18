@@ -4,6 +4,8 @@ site_description: A curated list of awesome Bayesian statistics resources
 site_author: Hector Muñoz
 repo_name: hectormz/awesome-bayes
 repo_url: https://github.com/hectormz/awesome-bayes
+plugins:
+  - social
 theme:
   name: material
   custom_dir: overrides
