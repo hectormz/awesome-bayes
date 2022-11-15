@@ -232,7 +232,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Stan Case Studies](https://mc-stan.org/users/documentation/case-studies.html)
 
-    - Recent Post: [Bayesian Latent Class Models and Handling of Label Switching](https://mc-stan.org/users/documentation/case-studies/Latent_class_case_study.html) (June 26, 2021)
+    - Recent Post: [HoloML in Stan: Low-photon Image Reconstruction](https://mc-stan.org/users/documentation/case-studies/HoloML_in_Stan.html) (June 13, 2022)
 
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 
