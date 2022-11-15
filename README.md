@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [What if? Causal inference through counterfactual reasoning in PyMC](https://www.pymc-labs.io/blog-posts/causal-inference-in-pymc/) (July 13, 2022)
+    - Recent Post: [Bayesian Media Mix Models: Modelling changes in marketing effectiveness over time](https://www.pymc-labs.io/blog-posts/modelling-changes-marketing-effectiveness-over-time/) (July 19, 2022)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
