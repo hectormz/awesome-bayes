@@ -30,7 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Andrew Heiss
 
-    - Recent Post: [A guide to modeling outcomes that have lots of zeros with Bayesian hurdle lognormal and hurdle Gaussian regression models](https://www.andrewheiss.com/blog/2022/05/09/hurdle-lognormal-gaussian-brms/) (May 9, 2022)
+    - Recent Post: [Visualizing the differences between Bayesian posterior predictions, linear predictions, and the expectation of posterior predictions](https://www.andrewheiss.com/blog/2022/09/26/guide-visualizing-types-posteriors/) (September 26, 2022)
 
 - [Austin Rochford](https://austinrochford.com/)
 
