@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#69 Why, When & How to use Bayes Factors, with Jorge Tendeiro](https://learnbayesstats.com/episode/69-why-when-how-to-use-bayes-factors-jorge-tendeiro/) (October 5, 2022)
+    - Recent Episode: [#70 Teaching Bayes for Biology & Biological Engineering, with Justin Bois](https://learnbayesstats.com/episode/70-teaching-bayes-biological-engineering-justin-bois/) (October 22, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
