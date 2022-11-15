@@ -18,7 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Notes on the Bayesian cumulative probit](https://solomonkurz.netlify.app/post/2021-12-29-notes-on-the-bayesian-cumulative-probit/) (December 30, 2021)
+    - Recent Post: [Sum-score effect sizes for multilevel Bayesian cumulative probit models](https://solomonkurz.netlify.app/post/2022-07-18-sum-score-effect-sizes-for-multilevel-bayesian-cumulative-probit-models/) (July 18, 2022)
 
 - [Andreas Handel](https://www.andreashandel.com/posts)
 
