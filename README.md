@@ -184,7 +184,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Demetri Pananos
 
-    - Recent Post: [Flippin’ Fun!](https://dpananos.github.io/posts/2022-05-07-flippin/) (May 7, 2022)
+    - Recent Post: [Forecasting Experimental Lift Using Hierarchical Bayesian Modelling](https://dpananos.github.io/posts/2022-07-20-pooling-experiments/) (July 20, 2022)
 
 - [Probably Overthinking It](https://www.allendowney.com/blog/)
 
