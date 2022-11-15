@@ -200,7 +200,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Blog](https://www.pymc.io/blog.html)
 
-- [PyMC Examples](https://docs.pymc.io/projects/examples/en/latest/)
+- [PyMC Examples](https://www.pymc.io/projects/examples/en/latest/gallery.html)
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
