@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#66 Uncertainty Visualization & Usable Stats, with Matthew Kay](https://learnbayesstats.com/episode/66-uncertainty-visualization-usable-stats-matthew-kay/) (August 17, 2022)
+    - Recent Episode: [#67 Exoplanets, Cool Worlds & Life in the Universe, with David Kipping](https://learnbayesstats.com/episode/67-exoplanets-cool-worlds-life-in-universe-david-kipping/) (August 31, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
