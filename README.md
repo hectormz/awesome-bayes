@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#63 Media Mix Models & Bayes for Marketing, with Luciano Paz](https://learnbayesstats.com/episode/63-media-mix-models-bayes-marketing-luciano-paz/) (June 28, 2022)
+    - Recent Episode: [#64 Modeling the Climate & Gravity Waves, with Laura Mansfield](https://learnbayesstats.com/episode/64-modeling-climate-gravity-waves-laura-mansfield/) (July 20, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
