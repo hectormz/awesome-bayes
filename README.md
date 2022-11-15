@@ -222,7 +222,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Dr. Robert Kübler
 
-    - Recent Post: [Bayesian Marketing Mix Modeling in Python via PyMC3](https://towardsdatascience.com/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a) (December 30, 2021)
+    - Recent Post: [Bayesian Hierarchical Marketing Mix Modeling in PyMC](https://towardsdatascience.com/bayesian-hierarchical-marketing-mix-modeling-in-pymc-684f6024e57a) (July 25, 2022)
 
 - [Sometimes | R](https://mvuorre.github.io/)
 
