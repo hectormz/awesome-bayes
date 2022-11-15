@@ -232,7 +232,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Stan Case Studies](https://mc-stan.org/users/documentation/case-studies.html)
 
-    - Recent Post: [HoloML in Stan: Low-photon Image Reconstruction](https://mc-stan.org/users/documentation/case-studies/HoloML_in_Stan.html) (June 13, 2022)
+    - Recent Post: [Multilevel regression modeling with CmdStanPy and plotnine](https://mc-stan.org/users/documentation/case-studies/radon_cmdstanpy_plotnine.html) (August 30, 2022)
 
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 
