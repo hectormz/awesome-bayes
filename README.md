@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#65 PyMC, Aeppl, & Aesara: the new cool kids on the block, with Ricardo Vieira](https://learnbayesstats.com/episode/65-pymc-aeppl-aesara-ricardo-vieira/) (August 3, 2022)
+    - Recent Episode: [#66 Uncertainty Visualization & Usable Stats, with Matthew Kay](https://learnbayesstats.com/episode/66-uncertainty-visualization-usable-stats-matthew-kay/) (August 17, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
