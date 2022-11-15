@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#67 Exoplanets, Cool Worlds & Life in the Universe, with David Kipping](https://learnbayesstats.com/episode/67-exoplanets-cool-worlds-life-in-universe-david-kipping/) (August 31, 2022)
+    - Recent Episode: [#68 Probabilistic Machine Learning & Generative Models, with Kevin Murphy](https://learnbayesstats.com/episode/68-probabilistic-machine-learning-generative-models-kevin-murphy/) (September 14, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
