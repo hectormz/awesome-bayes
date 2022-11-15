@@ -36,7 +36,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Austin Rochford
 
-    - Recent Post: [A Modern Introduction to Probabilistic Programming with PyMC](https://austinrochford.com/posts/intro-prob-prog-pymc.html) (January 29, 2022)
+    - Recent Post: [Bayesian Age/Period/Cohort Models in Python with PyMC](https://austinrochford.com/posts/apc-pymc.html) (August 22, 2022)
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
