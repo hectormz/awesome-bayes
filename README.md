@@ -142,7 +142,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Joshua Cook
 
-    - Recent Post: [Experimenting with multi-level and hierarchical splines in PyMC](https://joshuacook.netlify.app/post/pymc-multilevel-spline/) (February 28, 2022)
+    - Recent Post: [Dirichlet Regression with PyMC](https://joshuacook.netlify.app/post/dirichlet-regression-pymc/) (November 9, 2022)
 
 - [mages' blog](https://magesblog.com/#posts)
 
