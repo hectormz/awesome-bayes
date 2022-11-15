@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Bayesian inference at scale: Running A/B tests with millions of observations](https://www.pymc-labs.io/blog-posts/bayesian-inference-at-scale-running-ab-tests-with-millions-of-observations/) (August 12, 2022)
+    - Recent Post: [Modeling spatial data with Gaussian processes in PyMC](https://www.pymc-labs.io/blog-posts/spatial-gaussian-process-01/) (August 17, 2022)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
