@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#68 Probabilistic Machine Learning & Generative Models, with Kevin Murphy](https://learnbayesstats.com/episode/68-probabilistic-machine-learning-generative-models-kevin-murphy/) (September 14, 2022)
+    - Recent Episode: [#69 Why, When & How to use Bayes Factors, with Jorge Tendeiro](https://learnbayesstats.com/episode/69-why-when-how-to-use-bayes-factors-jorge-tendeiro/) (October 5, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
