@@ -222,7 +222,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Dr. Robert Kübler
 
-    - Recent Post: [Bayesian Hierarchical Marketing Mix Modeling in PyMC](https://towardsdatascience.com/bayesian-hierarchical-marketing-mix-modeling-in-pymc-684f6024e57a) (July 25, 2022)
+    - Recent Post: [Learning to Rank the Bayesian Way](https://towardsdatascience.com/learning-to-rank-the-bayesian-way-29af4c61939b) (August 9, 2022)
 
 - [Sometimes | R](https://mvuorre.github.io/)
 
