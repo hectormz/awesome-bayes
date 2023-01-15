@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
-    - Recent Post: [Bayes Factors for Those who Hate Bayes Factors, Part II: Lord Ludicrus, Vampire Count of Incoherence, Insists on a Dance](https://www.bayesianspectacles.org/bayes-factors-for-those-who-hate-bayes-factors-part-ii-lord-ludicrus-vampire-count-of-incoherence-insists-on-a-dance/) (December 14, 2022)
+    - Recent Post: [Bayes Factors for Those who Hate Bayes Factors, Part III: The Coherence Plot](https://www.bayesianspectacles.org/bayes-factors-for-those-who-hate-bayes-factors-part-iii-the-coherence-plot/) (January 9, 2023)
 
 - [BetanAlpha](https://betanalpha.github.io/writing/)
 
