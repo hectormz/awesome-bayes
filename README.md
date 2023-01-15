@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
-    - Recent Post: [From p-values to Bayes Factors with 3p√n](https://www.bayesianspectacles.org/from-p-values-to-bayes-factors-with-3p%e2%88%9an/) (February 22, 2022)
+    - Recent Post: [Bayes Factors for Those who Hate Bayes Factors, Part II: Lord Ludicrus, Vampire Count of Incoherence, Insists on a Dance](https://www.bayesianspectacles.org/bayes-factors-for-those-who-hate-bayes-factors-part-ii-lord-ludicrus-vampire-count-of-incoherence-insists-on-a-dance/) (December 14, 2022)
 
 - [BetanAlpha](https://betanalpha.github.io/writing/)
 
