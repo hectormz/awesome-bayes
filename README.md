@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Modeling spatial data with Gaussian processes in PyMC](https://www.pymc-labs.io/blog-posts/spatial-gaussian-process-01/) (August 17, 2022)
+    - Recent Post: [How to use JAX ODEs and Neural Networks in PyMC](https://www.pymc-labs.io/blog-posts/jax-functions-in-pymc-3-quick-examples/) (January 3, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
