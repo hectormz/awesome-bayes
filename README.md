@@ -224,11 +224,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Learning to Rank the Bayesian Way](https://towardsdatascience.com/learning-to-rank-the-bayesian-way-29af4c61939b) (August 9, 2022)
 
-- [Sometimes | R](https://mvuorre.github.io/)
+- [Sometimes I R](https://sometimesir.com/)
 
     - Author: Matti Vuorre
 
-    - Recent Post: [How to calculate contrasts from a fitted brms model](https://mvuorre.github.io/posts/2020-02-06-how-to-calculate-contrasts-from-a-fitted-brms-model/) (February 5, 2020)
+    - Recent Post: [Latent mean centering with brms](https://sometimesir.com/posts/latent-mean-centering/) (January 1, 2023)
 
 - [Stan Case Studies](https://mc-stan.org/users/documentation/case-studies.html)
 
