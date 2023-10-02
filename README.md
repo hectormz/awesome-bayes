@@ -14,11 +14,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ## Blogs
 
-- [A. Solomon Kurz](https://solomonkurz.netlify.app/post/)
+- [A. Solomon Kurz](https://solomonkurz.netlify.app/blog/)
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Sum-score effect sizes for multilevel Bayesian cumulative probit models](https://solomonkurz.netlify.app/post/2022-07-18-sum-score-effect-sizes-for-multilevel-bayesian-cumulative-probit-models/) (July 18, 2022)
+    - Recent Post: [Boost your power with baseline covariates](https://solomonkurz.netlify.app/blog/2023-04-12-boost-your-power-with-baseline-covariates/) (April 12, 2023)
 
 - [Andreas Handel](https://www.andreashandel.com/posts)
 
