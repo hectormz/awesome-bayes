@@ -18,7 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Causal inference with count regression](https://solomonkurz.netlify.app/blog/2023-05-07-causal-inference-with-count-regression/) (May 7, 2023)
+    - Recent Post: [Causal inference with gamma regression or: The problem is with the link function, not the likelihood](https://solomonkurz.netlify.app/blog/2023-05-14-causal-inference-with-gamma-regression-or-the-problem-is-with-the-link-function-not-the-likelihood/) (May 14, 2023)
 
 - [Andreas Handel](https://www.andreashandel.com/posts)
 
