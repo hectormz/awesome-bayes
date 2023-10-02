@@ -18,7 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Causal inference with potential outcomes bootcamp](https://solomonkurz.netlify.app/blog/2023-04-16-causal-inference-with-potential-outcomes-bootcamp/) (April 16, 2023)
+    - Recent Post: [Causal inference with logistic regression](https://solomonkurz.netlify.app/blog/2023-04-24-causal-inference-with-logistic-regression/) (April 24, 2023)
 
 - [Andreas Handel](https://www.andreashandel.com/posts)
 
