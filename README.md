@@ -18,7 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Boost your power with baseline covariates](https://solomonkurz.netlify.app/blog/2023-04-12-boost-your-power-with-baseline-covariates/) (April 12, 2023)
+    - Recent Post: [Causal inference with potential outcomes bootcamp](https://solomonkurz.netlify.app/blog/2023-04-16-causal-inference-with-potential-outcomes-bootcamp/) (April 16, 2023)
 
 - [Andreas Handel](https://www.andreashandel.com/posts)
 
