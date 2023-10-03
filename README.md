@@ -268,7 +268,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Dan Simpson
 
-    - Recent Post: [The linear algebra of linear mixed effects models and their generalisations](https://dansblog.netlify.app/posts/2022-03-22-a-linear-mixed-effects-model/) (March 21, 2022)
+    - Recent Post: [On that example of Robins and Ritov; or A sleeping dog in harbor is safe, but that’s not what sleeping dogs are for](https://dansblog.netlify.app/posts/2022-11-12-robins-ritov/robins-ritov) (November 15, 2022)
 
 - [Variance Explained](http://varianceexplained.org/)
 
