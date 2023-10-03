@@ -30,7 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Andrew Heiss
 
-    - Recent Post: [Visualizing the differences between Bayesian posterior predictions, linear predictions, and the expectation of posterior predictions](https://www.andrewheiss.com/blog/2022/09/26/guide-visualizing-types-posteriors/) (September 26, 2022)
+    - Recent Post: [Marginal and conditional effects for GLMMs with {marginaleffects}](https://www.andrewheiss.com/blog/2022/11/29/conditional-marginal-marginaleffects/) (November 29, 2022)
 
 - [Austin Rochford](https://austinrochford.com/)
 
