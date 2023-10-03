@@ -258,11 +258,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Forecasting the 2020 US Election Using Multilevel Regression with Post-stratification](https://towardsdatascience.com/forecasting-the-2020-us-election-using-multilevel-regression-with-post-stratification-bbf2f93585fb) (July 17, 2021)
 
-- [Tomás Capretto](https://tomicapretto.github.io)
+- [Tomás Capretto](https://tomicapretto.github.io/posts)
 
     - Author: Tomás Capretto
 
-    - Recent Post: [Hierarchical modeling with the LKJ prior in PyMC](https://tomicapretto.github.io/posts/2022-06-12_lkj-prior/) (July 12, 2022)
+    - Recent Post: [How to create a custom family in Bambi?](https://tomicapretto.github.io/posts/2023-01-14_add_custom_family_bambi/) (January 14, 2023)
 
 - [Un garçon pas comme les autres (Bayes)](https://dansblog.netlify.app/)
 
