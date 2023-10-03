@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#74 Optimizing NUTS and Developing the ZeroSumNormal Distribution, with Adrian Seyboldt](https://learnbayesstats.com/episode/74-optimizing-nuts-developing-zerosumnormal-distribution-adrian-seyboldt/) (January 5, 2023)
+    - Recent Episode: [#76 The Past, Present & Future of Stan, with Bob Carpenter](https://learnbayesstats.com/episode/76-past-present-future-of-stan-bob-carpenter/) (February 1, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
