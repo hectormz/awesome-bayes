@@ -1,5 +1,5 @@
-CairoSVG==2.6.0
-mkdocs==1.4.2
-mkdocs-material==9.0.5
-mkdocs-material-extensions==1.1.1
-Pillow==9.4.0
+CairoSVG==2.7.1
+mkdocs==1.5.3
+mkdocs-material==9.4.3
+mkdocs-material-extensions==1.2
+Pillow==10.0.1
