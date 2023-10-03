@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#86 Exploring Research Synchronous Languages & Hybrid Systems, with Guillaume Baudart](https://learnbayesstats.com/episode/86-exploring-research-synchronous-languages-hybrid-systems-guillaume-baudart/) (July 14, 2023)
+    - Recent Episode: [#87 Unlocking the Power of Bayesian Causal Inference, with Ben Vincent](https://learnbayesstats.com/episode/87-unlocking-the-power-of-bayesian-causal-inference-ben-vincent/) (July 30, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
