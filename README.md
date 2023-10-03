@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [PyMC-Marketing: A Bayesian Approach to Marketing Data Science](https://www.pymc-labs.com/blog-posts/pymc-marketing-a-bayesian-approach-to-marketing-data-science/) (April 6, 2023)
+    - Recent Post: [Simulating data with PyMC](https://www.pymc-labs.com/blog-posts/simulating-data-with-pymc/) (April 20, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
