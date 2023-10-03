@@ -232,7 +232,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Stan Case Studies](https://mc-stan.org/users/documentation/case-studies.html)
 
-    - Recent Post: [Multilevel regression modeling with CmdStanPy and plotnine](https://mc-stan.org/users/documentation/case-studies/radon_cmdstanpy_plotnine.html) (August 30, 2022)
+    - Recent Post: [Instrumental Variables Analysis of Randomized Experiments with One-Sided Noncompliance](https://mc-stan.org/users/documentation/case-studies/cace_one-sided.html) (September 15, 2023)
 
 - [Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/)
 
