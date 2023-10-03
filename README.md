@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#80 Bayesian Additive Regression Trees (BARTs), with Sameer Deshpande](https://learnbayesstats.com/episode/80-bayesian-additive-regression-trees-sameer-deshpande/) (April 11, 2023)
+    - Recent Episode: [#81 Neuroscience of Perception: Exploring the Brain, with Alan Stocker](https://learnbayesstats.com/episode/81-neuroscience-of-perception-exploring-the-brain-alan-stocker/) (April 24, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
