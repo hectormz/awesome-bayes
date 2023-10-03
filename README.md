@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Causal analysis with PyMC: Answering "What If?" with the new do operator](https://www.pymc-labs.com/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/) (August 1, 2023)
+    - Recent Post: [From Uncertainty to Insight: How Bayesian Data Science Can Transform Your Business](https://www.pymc-labs.com/blog-posts/from-uncertainty-to-insight-how-bayesian-data-science-can-transform-your-business/) (September 25, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
