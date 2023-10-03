@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Likelihood Approximations with Neural Networks in PyMC](https://www.pymc-labs.com/blog-posts/likelihood-approximations-through-neural-networks/) (March 31, 2023)
+    - Recent Post: [PyMC-Marketing: A Bayesian Approach to Marketing Data Science](https://www.pymc-labs.com/blog-posts/pymc-marketing-a-bayesian-approach-to-marketing-data-science/) (April 6, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
