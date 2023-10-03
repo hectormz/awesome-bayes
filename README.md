@@ -30,7 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Andrew Heiss
 
-    - Recent Post: [Marginal and conditional effects for GLMMs with {marginaleffects}](https://www.andrewheiss.com/blog/2022/11/29/conditional-marginal-marginaleffects/) (November 29, 2022)
+    - Recent Post: [How old was Aragorn in regular human years?](https://www.andrewheiss.com/blog/2023/03/21/aragorn-dunedan-numenorean-simulation/) (March 21, 2023)
 
 - [Austin Rochford](https://austinrochford.com/)
 
