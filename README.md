@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#85 A Brief History of Sports Analytics, with Jim Albert](https://learnbayesstats.com/episode/85-brief-history-sports-analytics-jim-albert/) (June 27, 2023)
+    - Recent Episode: [#86 Exploring Research Synchronous Languages & Hybrid Systems, with Guillaume Baudart](https://learnbayesstats.com/episode/86-exploring-research-synchronous-languages-hybrid-systems-guillaume-baudart/) (July 14, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
