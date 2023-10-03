@@ -268,7 +268,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Dan Simpson
 
-    - Recent Post: [On that example of Robins and Ritov; or A sleeping dog in harbor is safe, but that’s not what sleeping dogs are for](https://dansblog.netlify.app/posts/2022-11-12-robins-ritov/robins-ritov) (November 15, 2022)
+    - Recent Post: [MCMC with the wrong acceptance probability](https://dansblog.netlify.app/posts/2022-11-23-wrong-mcmc/wrong-mcmc) (November 23, 2022)
 
 - [Variance Explained](http://varianceexplained.org/)
 
