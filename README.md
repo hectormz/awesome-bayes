@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#79 Decision-Making & Cost Effectiveness Analysis for Health Economics, with Gianluca Baio](https://learnbayesstats.com/episode/79-decision-making-cost-effectiveness-analysis-health-economics-gianluca-baio/) (March 17, 2023)
+    - Recent Episode: [#80 Bayesian Additive Regression Trees (BARTs), with Sameer Deshpande](https://learnbayesstats.com/episode/80-bayesian-additive-regression-trees-sameer-deshpande/) (April 11, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
