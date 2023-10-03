@@ -130,7 +130,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Tristan Mahr
 
-    - Recent Post: [Random effects and penalized splines are the same thing](https://www.tjmahr.com/random-effects-penalized-splines-same-thing/) (February 26, 2021)
+    - Recent Post: [Ordering constraints in brms using contrast coding](https://www.tjmahr.com/bayesian-ordering-constraint/) (July 3, 2023)
 
 - [John D. Cook](https://www.johndcook.com/blog/tag/bayesian/)
 
