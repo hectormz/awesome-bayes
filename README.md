@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Likelihood Approximations for Cognitive Modeling with PyMC](https://www.pymc-labs.com/blog-posts/2023-01-12-Akili/) (January 12, 2023)
+    - Recent Post: [Likelihood Approximations with Neural Networks in PyMC](https://www.pymc-labs.com/blog-posts/likelihood-approximations-through-neural-networks/) (March 31, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
