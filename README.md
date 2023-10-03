@@ -18,7 +18,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: A. Solomon Kurz
 
-    - Recent Post: [Causal inference with ordinal regression](https://solomonkurz.netlify.app/blog/2023-05-21-causal-inference-with-ordinal-regression/) (May 21, 2023)
+    - Recent Post: [Causal inference with beta regression](https://solomonkurz.netlify.app/blog/2023-06-25-causal-inference-with-beta-regression/) (June 25, 2023)
 
 - [Andreas Handel](https://www.andreashandel.com/posts)
 
