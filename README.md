@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
-    - Recent Post: [Redefine Statistical Significance XX: A Chat on P-values with ChatGPT](https://www.bayesianspectacles.org/redefine-statistical-significance-xx-a-chat-on-p-values-with-chatgpt/) (February 8, 2023)
+    - Recent Post: [Bayesian Inference in Three Minutes](https://www.bayesianspectacles.org/bayesian-inference-in-three-minutes/) (February 23, 2023)
 
 - [BetanAlpha](https://betanalpha.github.io/writing/)
 
