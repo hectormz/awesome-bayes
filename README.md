@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#78 Exploring MCMC Sampler Algorithms, with Matt D. Hoffman](https://learnbayesstats.com/episode/78-exploring-mcmc-sampler-algorithms-matt-d-hoffman/) (March 1, 2023)
+    - Recent Episode: [#79 Decision-Making & Cost Effectiveness Analysis for Health Economics, with Gianluca Baio](https://learnbayesstats.com/episode/79-decision-making-cost-effectiveness-analysis-health-economics-gianluca-baio/) (March 17, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
