@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#90, Demystifying MCMC & Variational Inference, with Charles Margossian](https://learnbayesstats.com/episode/90-demystifying-mcmc-variational-inference-charles-margossian/) (September 6, 2023)
+    - Recent Episode: [#91, Exploring European Football Analytics, with Max Göbel](https://learnbayesstats.com/episode/91-exploring-european-football-analytics-max-gobel/) (September 20, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
