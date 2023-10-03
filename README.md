@@ -30,7 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Andrew Heiss
 
-    - Recent Post: [The ultimate practical guide to multilevel multinomial conjoint analysis with R](https://www.andrewheiss.com/blog/2023/08/12/conjoint-multilevel-multinomial-guide/) (August 12, 2023)
+    - Recent Post: [Guide to understanding the intuition behind the Dirichlet distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/) (September 18, 2023)
 
 - [Austin Rochford](https://austinrochford.com/)
 
