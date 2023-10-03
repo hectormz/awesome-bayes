@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Bayesian Methods in Modern Marketing Analytics](https://www.pymc-labs.com/blog-posts/out-of-model-predictions-with-pymc/) (June 20, 2023)
+    - Recent Post: [Causal analysis with PyMC: Answering "What If?" with the new do operator](https://www.pymc-labs.com/blog-posts/causal-analysis-with-pymc-answering-what-if-with-the-new-do-operator/) (August 1, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
