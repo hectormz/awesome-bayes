@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
-    - Recent Post: [The Problem of Old Evidence](https://www.bayesianspectacles.org/the-problem-of-old-evidence/) (March 8, 2023)
+    - Recent Post: [Rosenkrantz on Severity and the Problem of Old Evidence](https://www.bayesianspectacles.org/rosenkrantz-on-severity-and-the-problem-of-old-evidence/) (April 3, 2023)
 
 - [BetanAlpha](https://betanalpha.github.io/writing/)
 
