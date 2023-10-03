@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#89 Unlocking the Science of Exercise, Nutrition & Weight Management, with Eric Trexler](https://learnbayesstats.com/episode/89-unlocking-science-exercise-nutrition-weight-management-eric-trexler/) (August 13, 2023)
+    - Recent Episode: [#90, Demystifying MCMC & Variational Inference, with Charles Margossian](https://learnbayesstats.com/episode/90-demystifying-mcmc-variational-inference-charles-margossian/) (September 6, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
