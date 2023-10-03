@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#83 Multilevel Regression, Post-Stratification & Electoral Dynamics, with Tarmo Jüristo](https://learnbayesstats.com/episode/83-multilevel-regression-post-stratification-electoral-dynamics-tarmo-juristo/) (May 25, 2023)
+    - Recent Episode: [#84 Causality in Neuroscience & Psychology, with Konrad Kording](https://learnbayesstats.com/episode/84-causality-neuroscience-psychology-konrad-kording/) (June 13, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
