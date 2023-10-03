@@ -148,7 +148,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Markus Gesmann
 
-    - Recent Post: [Prediction for the 100m final at the Tokyo Olympics](https://magesblog.com/post/2021-07-29-prediction-for-the-100m-tokyo-olympics/) (July 29, 2021)
+    - Recent Post: [Portfolio Allocation for Bayesian Dummies](https://magesblog.com/post/2023-02-15-portfolio-allocation-for-bayesian-dummies/) (February 15, 2023)
 
 - [Karin Knudson](https://karinknudson.com/blog.html)
 
