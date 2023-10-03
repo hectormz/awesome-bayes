@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#73 A Guide to Plotting Inferences & Uncertainties of Bayesian Models, with Jessica Hullman](https://learnbayesstats.com/episode/73-guide-plotting-inferences-uncertainties-bayesian-models-jessica-hullman/) (December 23, 2022)
+    - Recent Episode: [#74 Optimizing NUTS and Developing the ZeroSumNormal Distribution, with Adrian Seyboldt](https://learnbayesstats.com/episode/74-optimizing-nuts-developing-zerosumnormal-distribution-adrian-seyboldt/) (January 5, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
