@@ -244,7 +244,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Frank Harrell
 
-    - Recent Post: [Bayesian Methods to Address Clinical Development Challenges for COVID-19 Drugs and Biologics](https://www.fharrell.com/post/bayes-covid/) (September 15, 2020)
+    - Recent Post: [Wedding Bayesian and Frequentist Designs Created a Mess](https://www.fharrell.com/post/hybrid/) (August 22, 2023)
 
 - [Steven V. Miller](http://svmiller.com/blog/)
 
