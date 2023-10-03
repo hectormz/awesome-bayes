@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#72 Why the Universe is so Deliciously Crazy, with Daniel Whiteson](https://learnbayesstats.com/episode/72-why-the-universe-is-so-deliciously-crazy-daniel-whiteson/) (December 3, 2022)
+    - Recent Episode: [#73 A Guide to Plotting Inferences & Uncertainties of Bayesian Models, with Jessica Hullman](https://learnbayesstats.com/episode/73-guide-plotting-inferences-uncertainties-bayesian-models-jessica-hullman/) (December 23, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
