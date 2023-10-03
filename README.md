@@ -136,7 +136,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: John D. Cook
 
-    - Recent Post: [A Bayesian approach to pricing](https://www.johndcook.com/blog/2022/02/12/bayesian-pricing/) (February 12, 2022)
+    - Recent Post: [First names and Bayes’ theorem](https://www.johndcook.com/blog/2023/04/02/first-names-and-bayes-theorem/) (April 2, 2023)
 
 - [Joshua Cook](https://joshuacook.netlify.app/#posts)
 
