@@ -94,7 +94,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Richard McElreath
 
-    - Recent Post: [Algebra and the Missing Oxen](https://elevanth.org/blog/2018/01/29/algebra-and-missingness/) (January 29, 2018)
+    - Recent Post: [None of the Above](https://elevanth.org/blog/2023/07/17/none-of-the-above/) (July 17, 2023)
 
 - [George Ho](https://www.georgeho.org/blog/)
 
