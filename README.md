@@ -204,7 +204,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [PyMC Labs](https://www.pymc-labs.io/blog-posts/)
 
-    - Recent Post: [Out of model predictions with PyMC](https://www.pymc-labs.com/blog-posts/out-of-model-predictions-with-pymc/) (June 12, 2023)
+    - Recent Post: [Bayesian Methods in Modern Marketing Analytics](https://www.pymc-labs.com/blog-posts/out-of-model-predictions-with-pymc/) (June 20, 2023)
 
 - [Pythonic Perambulations](https://jakevdp.github.io/)
 
