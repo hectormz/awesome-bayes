@@ -222,7 +222,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Dr. Robert Kübler
 
-    - Recent Post: [Learning to Rank the Bayesian Way](https://towardsdatascience.com/learning-to-rank-the-bayesian-way-29af4c61939b) (August 9, 2022)
+    - Recent Post: [Convenient Bayesian Marketing Mix Modeling with PyMC Marketing](https://towardsdatascience.com/convenient-bayesian-marketing-mix-modeling-with-pymc-marketing-8b02a9a9c4aa) (April 13, 2023)
 
 - [Sometimes I R](https://sometimesir.com/)
 
