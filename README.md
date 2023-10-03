@@ -36,7 +36,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Austin Rochford
 
-    - Recent Post: [Revisiting Bayesian Survival Analysis in Python with PyMC](https://austinrochford.com/posts/revisit-survival-pymc.html) (January 10, 2023)
+    - Recent Post: [Order-restrictions in JAGS: Five Methods Fail, One Method Succeeds](https://www.bayesianspectacles.org/order-restrictions-in-jags-five-methods-fail-one-method-succeeds/) (January 24, 2023)
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
