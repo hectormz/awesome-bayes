@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#71 Artificial Intelligence, Deepmind & Social Change, with Julien Cornebise](https://learnbayesstats.com/episode/71-artificial-intelligence-deepmind-social-change-julien-cornebise/) (November 14, 2022)
+    - Recent Episode: [#72 Why the Universe is so Deliciously Crazy, with Daniel Whiteson](https://learnbayesstats.com/episode/72-why-the-universe-is-so-deliciously-crazy-daniel-whiteson/) (December 3, 2022)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
