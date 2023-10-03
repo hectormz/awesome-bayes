@@ -36,7 +36,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Austin Rochford
 
-    - Recent Post: [A Closed-form Solution for the Cholesky Decomposition of the Covariance Matrix of Exchangeable Normal Variables](https://austinrochford.com/posts/exch-chol-closed.html) (September 25, 2022)
+    - Recent Post: [Revisiting Bayesian Survival Analysis in Python with PyMC](https://austinrochford.com/posts/revisit-survival-pymc.html) (January 10, 2023)
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
