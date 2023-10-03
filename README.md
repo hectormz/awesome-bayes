@@ -40,7 +40,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
-    - Recent Post: [Rosenkrantz on Severity and the Problem of Old Evidence](https://www.bayesianspectacles.org/rosenkrantz-on-severity-and-the-problem-of-old-evidence/) (April 3, 2023)
+    - Recent Post: [What Determines the Price of LEGO Sets? A Bayesian Analysis with Twists and Turns](https://www.bayesianspectacles.org/what-determines-the-price-of-lego-sets-a-bayesian-analysis-with-twists-and-turns/) (July 10, 2023)
 
 - [BetanAlpha](https://betanalpha.github.io/writing/)
 
