@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#82 Sequential Monte Carlo & Bayesian Computation Algorithms, with Nicolas Chopin](https://learnbayesstats.com/episode/82-sequential-monte-carlo-bayesian-computation-algorithms-nicolas-chopin/) (May 5, 2023)
+    - Recent Episode: [#83 Multilevel Regression, Post-Stratification & Electoral Dynamics, with Tarmo Jüristo](https://learnbayesstats.com/episode/83-multilevel-regression-post-stratification-electoral-dynamics-tarmo-juristo/) (May 25, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
