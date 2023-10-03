@@ -136,7 +136,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: John D. Cook
 
-    - Recent Post: [Can you have confidence in a confidence interval?](https://www.johndcook.com/blog/2023/04/23/confidence-interval/) (April 23, 2023)
+    - Recent Post: [Beta approximation to binomial](https://www.johndcook.com/blog/2023/04/24/beta-approximation-to-binomial/) (April 24, 2023)
 
 - [Joshua Cook](https://joshuacook.netlify.app/#posts)
 
