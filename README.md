@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#76 The Past, Present & Future of Stan, with Bob Carpenter](https://learnbayesstats.com/episode/76-past-present-future-of-stan-bob-carpenter/) (February 1, 2023)
+    - Recent Episode: [#77 How a Simple Dress Helped Uncover Hidden Prejudices, with Pascal Wallisch](https://learnbayesstats.com/episode/77-how-a-simple-dress-helped-uncover-hidden-prejudices-pascal-wallisch/) (February 13, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
