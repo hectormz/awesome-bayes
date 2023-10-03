@@ -306,7 +306,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Host: Alexandre Andorra
 
-    - Recent Episode: [#84 Causality in Neuroscience & Psychology, with Konrad Kording](https://learnbayesstats.com/episode/84-causality-neuroscience-psychology-konrad-kording/) (June 13, 2023)
+    - Recent Episode: [#85 A Brief History of Sports Analytics, with Jim Albert](https://learnbayesstats.com/episode/85-brief-history-sports-analytics-jim-albert/) (June 27, 2023)
 
 - [The Local Maximum](https://www.localmaxradio.com/)
 
