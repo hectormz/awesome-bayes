@@ -30,7 +30,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Author: Andrew Heiss
 
-    - Recent Post: [The ultimate practical guide to conjoint analysis with R](https://www.andrewheiss.com/blog/2023/07/25/conjoint-bayesian-frequentist-guide/) (July 25, 2023)
+    - Recent Post: [The ultimate practical guide to multilevel multinomial conjoint analysis with R](https://www.andrewheiss.com/blog/2023/08/12/conjoint-multilevel-multinomial-guide/) (August 12, 2023)
 
 - [Austin Rochford](https://austinrochford.com/)
 
