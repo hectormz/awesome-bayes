@@ -224,11 +224,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Convenient Bayesian Marketing Mix Modeling with PyMC Marketing](https://towardsdatascience.com/convenient-bayesian-marketing-mix-modeling-with-pymc-marketing-8b02a9a9c4aa) (April 13, 2023)
 
-- [Sometimes I R](https://sometimesir.com/)
+- [Sometimes I R](https://vuorre.netlify.app/blog)
 
     - Author: Matti Vuorre
 
-    - Recent Post: [Latent mean centering with brms](https://sometimesir.com/posts/latent-mean-centering/) (January 1, 2023)
+    - Recent Post: [Latent mean centering with brms](https://vuorre.netlify.app/posts/latent-mean-centering/) (January 1, 2023)
 
 - [Stan Case Studies](https://mc-stan.org/users/documentation/case-studies.html)
 
