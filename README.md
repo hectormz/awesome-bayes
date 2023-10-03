@@ -238,7 +238,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Authors: Andrew Gelman and others
 
-    - Recent Post: [Bayes factors measure prior predictive performance](https://statmodeling.stat.columbia.edu/2022/06/25/bayes-factors-measure-prior-predictive-performance/) (June 25, 2022)
+    - Recent Post: [How big problem it is that cross-validation is biased?](https://statmodeling.stat.columbia.edu/2023/09/15/how-big-problem-it-is-that-cross-validation-is-biased/) (September 15, 2023)
 
 - [Statistical Thinking](https://www.fharrell.com/#posts)
 
