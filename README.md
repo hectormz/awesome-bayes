@@ -32,11 +32,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Guide to understanding the intuition behind the Dirichlet distribution](https://www.andrewheiss.com/blog/2023/09/18/understanding-dirichlet-beta-intuition/) (September 18, 2023)
 
-- [Austin Rochford](https://austinrochford.com/)
+- [Austin Rochford](https://austinrochford.com/posts.html)
 
     - Author: Austin Rochford
 
-    - Recent Post: [Bayesian Age/Period/Cohort Models in Python with PyMC](https://austinrochford.com/posts/apc-pymc.html) (August 22, 2022)
+    - Recent Post: [A Closed-form Solution for the Cholesky Decomposition of the Covariance Matrix of Exchangeable Normal Variables](https://austinrochford.com/posts/exch-chol-closed.html) (September 25, 2022)
 
 - [Bayesian Spectacles](https://www.bayesianspectacles.org/)
 
