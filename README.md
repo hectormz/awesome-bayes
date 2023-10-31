@@ -186,6 +186,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
     - Recent Post: [Forecasting Experimental Lift Using Hierarchical Bayesian Modelling](https://dpananos.github.io/posts/2022-07-20-pooling-experiments/) (July 20, 2022)
 
+- [Probably Credible](https://www.probablycredible.com/blog)
+
+    - Author: Hector
+
+    - Recent Post: [How Much Will My Dog Weigh? Using Bayesian Modeling to Predict My Dog’s Weight](https://www.probablycredible.com/blog/bayesian-model-dog-weight/) (October 28, 2023)
+
 - [Probably Overthinking It](https://www.allendowney.com/blog/)
 
     - Author: Allen Downey
